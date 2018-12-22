@@ -435,6 +435,12 @@ body{
 .cont-forma--textarea{
 	box-sizing: border-box;
 }
+.cont-forma{
+	margin-top: 80px;
+}
+.butScrol{
+	bottom: 120px;
+}
 }
 @media screen and (max-width: 576px){
 	
