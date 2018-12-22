@@ -260,12 +260,12 @@ body{
 .team__box--h3{
 	font-family: ProximaNova;
 	color:  #9f9acf;
-	font-size: 24px;
+	font-size: 20px;
 	font-weight: 700;
 }
 .team__box--p{
 	color:  #665f60;
-	font-size: 24px;
+	font-size: 16px;
 	font-style: italic;
 }
 
